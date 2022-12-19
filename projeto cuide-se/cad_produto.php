@@ -161,7 +161,7 @@ body {
 
 .continue-button button {
     width: 30%;
-    margin-left: 35%;
+    margin-left: 15%;
     margin-top: 2.5rem;
     border: none;
     background-color: green;
@@ -233,9 +233,6 @@ body {
                     <div class="title">
                         <h1>Cadastrar Produto</h1>
                     </div>
-                    <div class="login-button">
-                        <button><a href="#">Login</a></button>
-                    </div>
                 </div>
 
                 <div class="input-group" method="post">
@@ -263,11 +260,12 @@ body {
                 </div>
 
                 <div class="continue-button">
-                    <button><a href="#">Cadastrar</a> </button>
+                    <button><a href="#">Continuar</a> </button>
                     <button><a href="#">Pesquisar</a> </button>
                     <button><a href="#">Adicionar</a> </button>
                     <button><a href="#">Deletar</a> </button>
                 </div>
+                
             </form>
         </div>
     </div>
