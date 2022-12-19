@@ -263,7 +263,10 @@ body {
                 </div>
 
                 <div class="continue-button">
-                    <button><a href="#">Continuar</a> </button>
+                    <button><a href="#">Cadastrar</a> </button>
+                    <button><a href="#">Pesquisar</a> </button>
+                    <button><a href="#">Adicionar</a> </button>
+                    <button><a href="#">Deletar</a> </button>
                 </div>
             </form>
         </div>

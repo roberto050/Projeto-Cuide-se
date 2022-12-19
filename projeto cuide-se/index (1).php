@@ -44,7 +44,7 @@
              <button class="b_button">Login</button>
         </div>
         <div>
-            <button class="c_button">Cadastrar-se</button>
+            <button class="c_button"><a href="tela_cadastro.php">Cadastrar-se</a> </button>
         </div>
       </div>
     </nav>
